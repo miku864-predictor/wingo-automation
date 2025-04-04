@@ -1,0 +1,4 @@
+selenium
+gspread
+oauth2client
+bs4
